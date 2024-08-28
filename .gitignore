@@ -1,0 +1,10 @@
+WSPAPI/logs/*
+!WSPAPI/logs/.gitkeep
+
+WSPAPI/models/*
+!WSPAPI/models/.gitkeep
+
+*.pyc
+__pycache__/
+
+api-venv/
